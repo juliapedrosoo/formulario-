@@ -11,3 +11,10 @@ form input{
   background:black;
   color: write;
 }
+
+td{
+  border: 1px solid #000000;
+  border-color: cor;
+}
+
+ 
